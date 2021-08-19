@@ -1,7 +1,3 @@
 * linguist-vendored
-*.js linguist-vendored=vendored
-*.cpp linguist-vendored=vendored
-*.txt linguist-vendored=vendored
-*.cc linguist-vendored=vendored
-*.h linguist-vendored=vendored
+*.dart linguist-vendored=true
 
