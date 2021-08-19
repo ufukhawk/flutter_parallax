@@ -2,8 +2,9 @@
 
 Flutter Parallax Animation
 
+
+<img src="https://imgur.com/gotvpef.gif" width="1000" />
 <img src="https://imgur.com/R2OI2wr.gif" />
-<img src="https://imgur.com/8JtNzJQ.gif" />
 
 # More App 
 
