@@ -1,7 +1,7 @@
 * linguist-vendored
-*.js linguist-vendored=false
-*.cpp linguist-vendored=false
-*.txt linguist-vendored=false
-*.cc linguist-vendored=false
-*.h linguist-vendored=false
+*.js linguist-vendored=vendored
+*.cpp linguist-vendored=vendored
+*.txt linguist-vendored=vendored
+*.cc linguist-vendored=vendored
+*.h linguist-vendored=vendored
 
