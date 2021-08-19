@@ -2,3 +2,6 @@
 *.js linguist-vendored=false
 *.cpp linguist-vendored=false
 *.txt linguist-vendored=false
+*.cc linguist-vendored=false
+*.h linguist-vendored=false
+
